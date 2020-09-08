@@ -8,7 +8,14 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 
+.bottom-links {
+  text-decoration: none;
+  color: #16152e;
+}
 
+.bottom-links:hover {
+  color: #b1ff59;
+}
 
 
 #title {
